@@ -1,4 +1,9 @@
-### Hi there 👋
+## Julien Bouquet @julien-bouquet
+
+Hi, I'm Julien a Web Developper at @SFEIR, 
+I'm currently working on many applications in Python with Flask for @Adeo.
+And I have a side project to create an application for [boat navigation](https://github.com/julien-bouquet/geo-api) with open data in Golang.
+
 
 <!--
 **julien-bouquet/julien-bouquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
